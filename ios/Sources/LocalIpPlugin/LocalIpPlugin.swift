@@ -1,8 +1,9 @@
 import Foundation
 import Capacitor
 
-@objc(LocalIpPlugin)
-public class LocalIpPlugin: CAPPlugin {
+@objc(LocalIp)
+@CapacitorPlugin(name = "LocalIp")
+public class LocalIp: CAPPlugin {
     @objc func getLocalIp(_ call: CAPPluginCall) {
         var address: String?
 
