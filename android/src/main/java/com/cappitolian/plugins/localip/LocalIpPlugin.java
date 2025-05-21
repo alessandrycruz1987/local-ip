@@ -1,4 +1,4 @@
-package com.cappitolian.localip;
+package com.cappitolian.plugins.localip;
 
 import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;

@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "CappitolianLocalIp",
+    name: "LocalIp",
     platforms: [.iOS(.v14)],
     products: [
         .library(
-            name: "CappitolianLocalIp",
+            name: "LocalIp",
             targets: ["LocalIpPlugin"])
     ],
     dependencies: [
