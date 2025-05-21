@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alessadrycruz1987/local-ip.git"
+    "url": "git+https://github.com/alessandrycruz1987/local-ip.git"
   },
   "bugs": {
-    "url": "https://github.com/alessadrycruz1987/local-ip/issues"
+    "url": "https://github.com/alessandrycruz1987/local-ip/issues"
   },
   "keywords": [
     "capacitor",
