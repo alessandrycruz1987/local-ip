@@ -21,8 +21,8 @@ let package = Package(
             ],
             path: "ios/Sources/LocalIpPlugin"),
         .testTarget(
-            name: "LocalIpPluginTests",
+            name: "LocalIpTests",
             dependencies: ["LocalIpPlugin"],
-            path: "ios/Tests/LocalIpPluginTests")
+            path: "ios/Tests/LocalIpTests")
     ]
 )
