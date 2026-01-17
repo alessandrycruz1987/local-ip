@@ -1,6 +1,6 @@
 {
     "name": "@cappitolian/local-ip",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "Retrieve local IP address from native device",
     "main": "dist/plugin.cjs.js",
     "module": "dist/esm/index.js",
